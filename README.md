@@ -25,5 +25,4 @@ This is not an immediately deployable version of the website - [11ty](http://11t
   either load the 404.html directly in a browser, or deploy to the root of a gh-pages domain.
 
 ## License
-
 The Fluid Project website is available under [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/).
